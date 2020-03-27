@@ -1,0 +1,7 @@
+	h1 {text-align: center;} 
+	h1 {color:lime;} 
+	p {color:blue; background-color: white} 
+	ul {color:green;} 
+	ul {font-size: 20px} 
+	body {background-color:"grey"}
+	img{src="daffa.jpg" width="400px" height="500px" style="display: block; margin: auto; border: dashed; display:block;}
